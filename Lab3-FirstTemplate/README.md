@@ -16,14 +16,14 @@ From the blank `azuredeploy.json` file, type `arm!` and hit enter. As you type `
 
 This suggestion shows that on pressing enter, the skeleton of an ARM template file will be written to the empty file, containing the following:
 
-``{
+```{
     "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
     "contentVersion": "1.0.0.0",
     "parameters": {},
     "variables": {},
     "resources": [],
     "outputs": {}
-}``
+}```
 
 This shortcut pre-populates the required JSON structure of an ARM template file.
 
