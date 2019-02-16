@@ -23,7 +23,8 @@ This suggestion shows that on pressing enter, the skeleton of an ARM template fi
     "variables": {},
     "resources": [],
     "outputs": {}
-}```
+}
+```
 
 This shortcut pre-populates the required JSON structure of an ARM template file.
 
